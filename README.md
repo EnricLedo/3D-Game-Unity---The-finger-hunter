@@ -8,4 +8,4 @@ Tendrás a tu disposición un personaje único: un cirujano con una espada, que 
 
 ¿Estás listo para asumir el desafío de Finger Hunter? ¡Descarga el ejecutable ahora y demuestra tu habilidad en la caza de dedos!
 
-El ejecutable se llama sesio.exe
+El ejecutable se llama sesio1.exe
