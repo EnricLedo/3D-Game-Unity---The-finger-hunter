@@ -7,3 +7,5 @@ El juego consta de cuatro niveles, cada uno más difícil que el anterior. En ca
 Tendrás a tu disposición un personaje único: un cirujano con una espada, que te permitirá enfrentarte a los enemigos y eliminarlos. Prepárate para explorar diversos escenarios a medida que avanzas en el juego. El primer mapa te llevará al cálido desierto, el segundo te sumergirá en un escalofriante cementerio, el tercero te retará en un intrincado laberinto, y finalmente, el cuarto nivel te enfrentará a peligros en una ciudad devastada.
 
 ¿Estás listo para asumir el desafío de Finger Hunter? ¡Descarga el ejecutable ahora y demuestra tu habilidad en la caza de dedos!
+
+El ejecutable se llama sesio.exe
