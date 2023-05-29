@@ -1,6 +1,6 @@
 # The finger hunter
 
-Finger Hunter es un emocionante juego creado por Taufik, Enric, Guiu y Oriol utilizando Unity. Sumérgete en esta aventura llena de desafíos donde tu objetivo es recolectar dedos y atravesar portales mientras evitas a los zombies que intentan detenerte.
+Finger Hunter es un emocionante juego creado por Taufik, Enric y Guiu utilizando Unity. Sumérgete en esta aventura llena de desafíos donde tu objetivo es recolectar dedos y atravesar portales mientras evitas a los zombies que intentan detenerte.
 
 El juego consta de cuatro niveles, cada uno más difícil que el anterior. En cada nivel, te encontrarás con cuatro dedos dispersos por el mapa que debes recolectar. Sin embargo, ten cuidado, ya que los zombies estarán acechando, listos para atacarte. Si recibes un golpe, perderás una vida, pero puedes encontrar escudos en el mapa para protegerte.
 
